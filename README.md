@@ -1,7 +1,8 @@
 # 🌸 Blossom Upscaler
 
+Live at https://imamhossain01.github.io/Blossom-Upscaler/
 
-Here is how to use Blossom Upscaler:
+How to use Blossom Upscaler:
 
 1. Open the web application and drag and drop your image into the dropzone, or click to browse and select an image file from your device.
 2. Click the "Upscale & Smooth Pixels" button to double the image resolution while smoothing out harsh pixelation and blending jagged edges.
