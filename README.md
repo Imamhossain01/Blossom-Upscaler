@@ -32,11 +32,3 @@
 * **Canvas API** – High-performance image processing directly in the browser
 
 ---
-
-## 🚀 Getting Started
-
-To run this project locally on your machine, follow these simple steps:
-
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/your-username/blossom-upscaler.git](https://github.com/your-username/blossom-upscaler.git)
