@@ -1,9 +1,5 @@
 # 🌸 Blossom Upscaler
 
-<p align="center">
-  <b>A premium, Japanese cherry blossom-themed web application for smooth image upscaling and color enhancement.</b>
-</p>
-
 
 Here is how to use Blossom Upscaler:
 
