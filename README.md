@@ -9,3 +9,4 @@ How to use Blossom Upscaler:
 3. Click the "Enhance details & colors" button to bring out vibrant color tones and enrich shadow depth naturally.
 4. Use the interactive center slider (⇔) to drag left and right, allowing you to compare the original and enhanced versions side-by-side in real-time.
 5. Click the "Take it with you" button to download your high-resolution enhanced image directly to your device.
+
